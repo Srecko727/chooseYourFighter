@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chooseYourFighter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c005957d9b0c0571b8eeee2e5fe4cd0b43801ee0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3460810428274713008c55e44c4acb8ed68ff836")]
 [assembly: System.Reflection.AssemblyProductAttribute("chooseYourFighter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chooseYourFighter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

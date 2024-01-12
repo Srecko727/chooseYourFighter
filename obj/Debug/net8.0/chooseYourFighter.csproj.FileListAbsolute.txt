@@ -1,0 +1,15 @@
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.AssemblyInfoInputs.cache
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.AssemblyInfo.cs
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.csproj.CoreCompileInputs.cache
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.sourcelink.json
+C:\Users\sreck\Downloads\projects\chooseYourFighter\bin\Debug\net8.0\chooseYourFighter.exe
+C:\Users\sreck\Downloads\projects\chooseYourFighter\bin\Debug\net8.0\chooseYourFighter.deps.json
+C:\Users\sreck\Downloads\projects\chooseYourFighter\bin\Debug\net8.0\chooseYourFighter.runtimeconfig.json
+C:\Users\sreck\Downloads\projects\chooseYourFighter\bin\Debug\net8.0\chooseYourFighter.dll
+C:\Users\sreck\Downloads\projects\chooseYourFighter\bin\Debug\net8.0\chooseYourFighter.pdb
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.dll
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\refint\chooseYourFighter.dll
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.pdb
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\chooseYourFighter.genruntimeconfig.cache
+C:\Users\sreck\Downloads\projects\chooseYourFighter\obj\Debug\net8.0\ref\chooseYourFighter.dll
